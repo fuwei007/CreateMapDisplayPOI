@@ -9,3 +9,5 @@ Here is the steps
 5. Load base map. Bing map or OpenStreetMap.
 6. Load the POI layer
 7. Add Map click event and popup.
+
+Video Link: https://youtu.be/VJt1kXYEUtw
